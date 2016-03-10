@@ -1,6 +1,6 @@
 
 ## This script shows how to create Flow Maps in R using ggplot2. 
-## source: This is based on different bits of code from other with amazing R skills: 
+## source: This script is based on different bits of code from other people with amazing R skills: 
 
   # @ceng_l          : http://web.stanford.edu/~cengel/cgi-bin/anthrospace/great-circles-on-a-recentered-worldmap-in-ggplot
   # @3wen            : http://egallic.fr/maps-with-r/
@@ -9,14 +9,14 @@
 
 
 # Libraries
-library(maps)
-library(geosphere)
-library(dplyr)
-library(ggplot2)
-library(rworldmap)
-library(plyr)
-library(data.table)
-library(ggthemes)
+  library(maps)
+  library(geosphere)
+  library(dplyr)
+  library(ggplot2)
+  library(rworldmap)
+  library(plyr)
+  library(data.table)
+  library(ggthemes)
 
 
 # Get World map
