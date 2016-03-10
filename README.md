@@ -10,6 +10,6 @@
 ### Ouput Maps :
 Flat or Spherical Map:
 
-<img src="https://github.com/rafapereirabr/flow-map-in-r-ggplot/blob/master/output%20maps/Rplot08.png" width="350"> ; <img src="https://github.com/rafapereirabr/flow-map-in-r-ggplot/blob/master/output%20maps/Rplot09.png" width="300">
+<img src="https://github.com/rafapereirabr/flow-map-in-r-ggplot/blob/master/output%20maps/Rplot08.png" width="500"> ; <img src="https://github.com/rafapereirabr/flow-map-in-r-ggplot/blob/master/output%20maps/Rplot09.png" width="350">
 
 
